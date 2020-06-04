@@ -1,0 +1,17 @@
+{
+  "name": "ReactNativeCITest",
+  "displayName": "ReactNativeCITest",
+  "expo": {
+    "name": "ReactNativeCITest",
+    "slug": "ReactNativeCITest",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
